@@ -1,0 +1,15 @@
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\bin\Debug\net9.0-windows\MyFirstWindowsApp.exe
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\bin\Debug\net9.0-windows\MyFirstWindowsApp.deps.json
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\bin\Debug\net9.0-windows\MyFirstWindowsApp.runtimeconfig.json
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\bin\Debug\net9.0-windows\MyFirstWindowsApp.dll
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\bin\Debug\net9.0-windows\MyFirstWindowsApp.pdb
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.AssemblyInfo.cs
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.sourcelink.json
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.dll
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\refint\MyFirstWindowsApp.dll
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.pdb
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\MyFirstWindowsApp.genruntimeconfig.cache
+C:\Users\USER\Downloads\IDE\Projects\Fun\c#\MyFirstWindowsApp\obj\Debug\net9.0-windows\ref\MyFirstWindowsApp.dll
